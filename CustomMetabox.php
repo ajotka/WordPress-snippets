@@ -2,7 +2,7 @@
 
 /**
 *  Remember to include this metabox in functions.php
-*  include_once( get_stylesheet_directory() . '/inc/meta_boxes/ajotka_custom.php' );
+*  include_once( get_stylesheet_directory() . '/inc/meta_boxes/CustomMetabox.php' );
 */
 
     class ajotka_custom_metabox {
