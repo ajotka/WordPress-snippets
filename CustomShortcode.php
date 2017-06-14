@@ -14,5 +14,7 @@ function custom_ajotka_shortcode( $atts ) {
 		'custom-filter'
 	);
 
+	// Your code starts here
+	// ...
 }
 add_shortcode( 'custom-ajotka-shortcode', 'custom_ajotka_shortcode' );
