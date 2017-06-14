@@ -109,7 +109,7 @@
                 <select name="ajotka_custom" id="ajotka_custom">
                     <option value=""></option>
                     <option value="val1" selected="selected">Option 1</option>
-                    <option value="val2" selected="selected">Option 2</option>
+                    <option value="val2">Option 2</option>
                 </select>
             </p>
             <script>
